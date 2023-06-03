@@ -1,2 +1,3 @@
-# bundlr-network-standards
-A repository for discussing new standards and specs on Bundlr
+# Irys Improvement Proposals
+
+A place to discuss proposals to improve Irys
