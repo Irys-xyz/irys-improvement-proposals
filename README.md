@@ -1,5 +1,7 @@
 # Irys Improvement Proposals
 
+![IIP](https://github.com/Bundlr-Network/irys-improvement-proposals/blob/master/assets/irys-IIP.png?raw=true)
+
 Irys Improvement Proposals (IIPs) are design documents that propose enhancements and new features to Irys, facilitating community collaboration and discussion. Anyone can submit an IIP, this repository provides the necessary guidelines and templates.
 
 Dive in, share your ideas, and help shape the future of Irys.
