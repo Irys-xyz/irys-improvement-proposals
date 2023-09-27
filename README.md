@@ -16,7 +16,7 @@ Anyone, however you should be an active community member first
 
 ## What can an IIP cover?
 
-This must be specified in the “Category” section of the [template](./docs/IIP-template.md)) and can be any of the following:
+This must be specified in the “Category” section of the [template](./docs/IIP-template.md) and can be any of the following:
 
 -   Protocol: Changes to the protocol itself, including ordering, receipts, bundling, GraphQL, and tagging.
 -   Tooling: Development of new tooling, current examples of tools are the Irys SDK, Query package, Whistleblower, and Explorer
