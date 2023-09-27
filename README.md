@@ -7,12 +7,12 @@ Dive in, share your ideas, and help shape the future of Irys.
 ## What are IIPs?
 
 -   Proposals for improving the Irys
--   Provides detailed information for enhancements, new features, and processes
+-   Detailed information for enhancements, new features, and processes
 -   A mechanism for the community to discuss and refine proposed changes
 
 ## Who can submit an IIP?
 
-Anyone, however you should be an active community member first
+Anyone, however you should be an active community member first.
 
 ## What can an IIP cover?
 
@@ -28,9 +28,7 @@ This must be specified in the “Category” section of the [template](./docs/II
 -   Provide necessary details
 -   Engage with feedback and comments
 -   Update based on community input
--
-
-## nsure it doesn't conflict with existing proposals or implementations
+-   Ensure it doesn't conflict with existing proposals or implementations
 
 ## Submission process
 
