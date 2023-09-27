@@ -1,0 +1,26 @@
+# .gitignore
+
+# Operating system files
+.DS_Store
+*.swp
+Thumbs.db
+
+# IDE and editor files
+.idea/
+*.iml
+.vscode/
+*.sublime*
+
+# Build and dependency directories
+node_modules/
+dist/
+build/
+target/
+
+# Log and temporary files
+*.log
+*.tmp
+
+# Other
+*.bak
+*.swo
